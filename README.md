@@ -1,5 +1,7 @@
 # Terms-of-Service
 
+**There is no tolerance for objectionable content or abusive users**
+
 1. Acceptance of Terms of Use Agreement.
                               
 By creating a Sup account whether through a mobile device, mobile application you agree to be bound by these Terms of Use. If you do not accept and agree to be bound by all of the terms of this Agreement, please do not use the Service. We may make changes to this Agreement and to the Service from time to time. We may do this for a variety of reasons including to reflect changes in or requirements of the law, new features, or changes in business practices. The most recent version is the version that applies. If the changes include material changes that affect your rights or obligations, we will notify you in advance of the changes by reasonable means, which could include notification through the Service or via email. If you continue to use the Service after the changes become effective, then you agree to the revised Agreement.
